@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao|Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora|PT+Serif&display=swap');
+
+body {
+	margin-bottom: 50px; margin-top: 50px;
+	margin-left: 300px; margin-right: 300px;
+	font-family: 'Lora', serif; font-size: 18px; 
+}
+
+h1 {
+	text-align: center; font-family: 'Liu Jian Mao Cao', cursive;
+	font-size: 50px; 
+}
+
+h3 {
+	text-align: center; 
+	font-family: 'Liu Jian Mao Cao', cursive;
+}
+
+h6 {
+	text-align: center;
+	font-family: 'Lora', serif;
+}
+
+a:hover {
+	color: #FFD2C1;
+}
+
+a:visited {
+	color: #D4CDD2;
+}
+
