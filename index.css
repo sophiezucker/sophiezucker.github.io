@@ -2,10 +2,12 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|PT+Serif&display=swap');
 
 body {
+	
 	margin-bottom: 50px; margin-top: 50px;
 	margin-left: 300px; margin-right: 300px;
 	font-family: 'Lora', serif; font-size: 18px; 
 }
+
 
 h1 {
 	text-align: center; font-family: 'Liu Jian Mao Cao', cursive;
@@ -15,6 +17,8 @@ h1 {
 h3 {
 	text-align: center; 
 	font-family: 'Liu Jian Mao Cao', cursive;
+	clear: both;
+
 }
 
 h6 {
@@ -30,3 +34,38 @@ a:visited {
 	color: #D4CDD2;
 }
 
+#image {
+	float: center;  
+	padding-left: 310px;
+	padding-top: 120px;
+
+}
+
+h4 {
+	font-family: 'Liu Jian Mao Cao', cursive;
+	text-align: center;
+}
+
+#div-one {
+	text-align: center;
+
+}
+
+#div-two {
+	text-align: center;
+	font-family: 'Lora', serif; font-size: 14px;
+
+
+}
+
+#testing {
+	font-size: 12px;
+	border: dotted 1px black;
+	padding: 25px;
+	width: 300px;
+	color: #582e31; 
+	float: right;
+	margin-right: 240px;
+
+
+}
